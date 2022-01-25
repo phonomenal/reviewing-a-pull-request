@@ -1,5 +1,7 @@
 ## Welcome to GitHub Games
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/204ad61f-ec3b-4501-9b73-8a455490c354.svg?orgId=650162616495)](https://app.soluble.cloud/repos/details/github.com/james-leha/reviewing-a-pull-request?orgId=650162616495)  
+
 A project based learning activity for people who are getting started with Git and GitHub.
 
 To play the game:
